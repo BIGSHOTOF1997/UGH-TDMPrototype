@@ -1,2 +1,2 @@
-# UGH-TDMPrototype
-Uber Global Hackathon Prototype lololol
+# Uber Global Hackathon Project
+This is a prototype.
