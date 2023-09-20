@@ -1,4 +1,10 @@
 # Uber Global Hackathon: Coding Track
-## The UberLand Mobility Hub
 
-coming soon check back for updates
+Idea: WHAT IS IT
+
+## TO-DO:
+- Settle final solution
+- Finish application features
+- Do proposal
+- Confirmation by all members
+- matthew submits the proposal + Github
